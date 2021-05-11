@@ -17,6 +17,7 @@ Package: stterm
 Architecture: any
 Depends:
  ncurses-term (>= 6.1+20180714-1),
+ fonts-firacode,
  ${misc:Depends},
  ${shlibs:Depends},
 Provides:
