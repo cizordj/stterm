@@ -73,8 +73,8 @@ static unsigned int cursorthickness = 2;
  */
 static int bellvolume = 0;
 
-/* default TERM value st-256color */
-char *termname = "xterm";
+/* default TERM value */
+char *termname = "st-256color";
 
 /*
  * spaces per tab
