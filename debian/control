@@ -19,7 +19,6 @@ Architecture: any
 Depends:
  ncurses-term (>= 6.1+20180714-1),
  fonts-firacode,
- fonts-noto-color-emoji,
  ${misc:Depends},
  ${shlibs:Depends},
 Provides:
